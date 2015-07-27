@@ -21,6 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F89F3D2A-503D-49E7-AA51-5B9B6EE36C4F}</ProjectGuid>
     <RootNamespace>CUDA_test3</RootNamespace>
+    <ProjectName>Stream_Async</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -21,6 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1DF84341-286B-4A27-8EFD-608E62E03479}</ProjectGuid>
     <RootNamespace>CUDA_test4</RootNamespace>
+    <ProjectName>Const_mem</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
